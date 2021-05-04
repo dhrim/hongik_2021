@@ -1,6 +1,55 @@
-# Python 입문
+# 딥러닝을 위한 Python
 
 - 실습 자료 : [python_intro.ipynb](python/python_intro.ipynb)
 - 참고 자료
   - [점프투 파이썬](https://wikidocs.net/book/1)
   - [데이터사이언스스쿨](https://datascienceschool.net/01%20python/02.00%202장%20파이썬%20기초%20문법.html)
+
+
+<br>
+
+# 일자별 교육 내용
+
+## 1일차
+- 실습 환경 : https://colab.research.google.com
+- 변수와 연산자
+- 데이터 타입
+- 연산들
+- 사용자 입력 input()
+
+<br>
+
+## 2일차
+- print() 포멧
+- 프로그래밍과 프로그래밍 언어
+- 제어문 if
+- 함수
+- 반복문 - for
+
+<br>
+
+## 3일차
+- 반복문 - while
+- 자료형 - list
+- string
+- 자료형 - dict
+- 자료형 - tuple
+- 자료형 - set
+
+<br>
+
+## 4일차
+- File IO
+- 디렉토리 탐색
+- 내장 함수
+
+<br>
+
+## 5일차
+- 클래스
+- 라이브러리 사용
+- 기타 팁
+  - 함수 목록 보기
+  - 무명 변수
+
+
