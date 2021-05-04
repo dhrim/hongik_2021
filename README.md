@@ -2,10 +2,11 @@
 
 # 빅데이터 분석 기반 비즈니스 개발자 양성 & 취업연계 과정
 
-- 파이썬 : python.md
-- 파이썬 라이브러리 : python_library.md
-- 딥러닝 : deep_learning.md
+- 파이썬 : [python.md](material/python.md)
+- 파이썬 라이브러리 : [library.md](material/library.md)
+- 딥러닝 : [deep_learning.md](material/deep_learning.md)
 
+<br>
 
 # 딥러닝 활용을 위한 지식 구조
 
