@@ -1,6 +1,6 @@
 # 딥러닝을 위한 Python
 
-- 실습 자료 : [python_intro.ipynb](python/python_intro.ipynb)
+- 실습 자료 : [python_intro.ipynb](python/python_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/python_intro.ipynb)
 - 참고 자료
   - [점프투 파이썬](https://wikidocs.net/book/1)
   - [데이터사이언스스쿨](https://datascienceschool.net/01%20python/02.00%202장%20파이썬%20기초%20문법.html)
@@ -47,6 +47,7 @@
 
 ## 5일차
 - 클래스
+- 리스트 표현식
 - 라이브러리 사용
 - 기타 팁
   - 함수 목록 보기
