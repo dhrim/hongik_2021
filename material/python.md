@@ -6,6 +6,8 @@
   - [데이터사이언스스쿨](https://datascienceschool.net/01%20python/02.00%202장%20파이썬%20기초%20문법.html)
   - colab markdown reference : https://colab.research.google.com/notebooks/markdown_guide.ipynb
 
+- 실습 내용
+  - [2021_05_06_실습내용.ipynb](python/practive/2021_05_06_실습내용.ipynb)
 
 <br>
 
