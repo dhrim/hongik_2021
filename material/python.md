@@ -8,6 +8,7 @@
 
 - 실습 내용
   - [2021_05_06_실습내용.ipynb](python/practice/2021_05_06_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_06_실습내용.ipynb)
+  - [2021_05_07_실습내용.ipynb](python/practice/2021_05_07_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_07_실습내용.ipynb)
 
 <br>
 
