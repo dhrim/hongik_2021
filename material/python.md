@@ -12,6 +12,8 @@
   - [2021_05_10_실습내용.ipynb](python/practice/2021_05_10_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_10_실습내용.ipynb)
   - [2021_05_11_실습내용.ipynb](python/practice/2021_05_11_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_11_실습내용.ipynb)
 
+- 평가 문제 : [python_평가문제.ipynb](python/practice/python_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제.ipynb)
+
 <br>
 
 # 일자별 교육 내용
