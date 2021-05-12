@@ -1,3 +1,22 @@
+# Pandas
+
+- 실습 자료
+    - [pandas.ipynb](library/pandas.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas.ipynb)
+
+- 참고 자료
+    - 공식 홈의 10분 요약 : https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+    - cheat sheet :
+        - https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
+        - in 1 sheet : http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
+    - Pandas Cookbook : https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#
+    - Pandas Home API Reference : https://pandas.pydata.org/docs/reference/index.html
+    - Pandas Home User Guide : https://pandas.pydata.org/docs/user_guide/index.html
+    - Quiz
+        - https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+
+
+<br>
+
 # Numpy
 
 - 실습 자료
@@ -11,20 +30,7 @@
     - cheat sheet : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
 
 
-
-# Panda
-
-- 실습 자료
-    - [pandas.ipynb](library/pandas.ipynb)
-
-- 참고 자료
-    - 공식 홈의 10분 요약 : https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-    - cheat sheet :
-        - https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
-        - in 1 sheet : http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
-- Quiz
-    - https://www.machinelearningplus.com/python/101-pandas-exercises-python/
-
+<br>
 
 # Matplot
 
