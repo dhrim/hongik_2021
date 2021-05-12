@@ -49,3 +49,13 @@
     - https://www.w3resource.com/graphics/matplotlib/basic/index.php
     - https://pynative.com/python-matplotlib-exercise/
 
+
+<br>
+
+# Scikit
+
+
+<br>
+
+# 실 자료 EDA 실습
+
