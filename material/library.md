@@ -15,15 +15,15 @@
         - https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
 - 실습 내용
-  - [2021_05_13_실습내용.ipynb](library/practice/2021_05_13_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_13_실습내용.ipynb)
+  - [2021_05_13_실습내용.ipynb](library/practice/2021_05_13_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_13_실습내용.ipynb)
 
 <br>
 
 # Numpy
 
 - 실습 자료
-    - [numpy.ipynb](library/numpy.ipynb)
-    - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb)
+    - [numpy.ipynb](library/numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/numpy.ipynb)
+    - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/numpy_quiz_for_deeplearning.ipynb)
 
 - 참고 자료
     - API : https://docs.scipy.org/doc/numpy/genindex.html
@@ -37,8 +37,8 @@
 # Matplot
 
 - 실습 자료
-    - [matplot.ipynb](library/matplot.ipynb)
-    - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb)
+    - [matplot.ipynb](library/matplot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot.ipynb)
+    - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
 
 - 참고자료
     - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/Index.ipynb#scrollTo=_1SPvlnh1q-0
