@@ -16,6 +16,7 @@
 
 - 실습 내용
   - [2021_05_13_실습내용.ipynb](library/practice/2021_05_13_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_13_실습내용.ipynb)
+  - [2021_05_14_실습내용.ipynb](library/practice/2021_05_14_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_14_실습내용.ipynb)
 
 <br>
 
