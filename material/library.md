@@ -16,7 +16,6 @@
 
 - 실습 내용
   - [2021_05_13_실습내용.ipynb](library/practice/2021_05_13_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_13_실습내용.ipynb)
-  - [2021_05_14_실습내용.ipynb](library/practice/2021_05_14_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_14_실습내용.ipynb)
 
 <br>
 
@@ -31,6 +30,9 @@
     - 주요 요약 : http://riseshia.github.io/2017/01/30/numpy-tutorial-with-code.html
     - 한글 자료 : http://taewan.kim/post/numpy_cheat_sheet/
     - cheat sheet : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
+
+- 실습 내용
+  - [2021_05_14_실습내용.ipynb](library/practice/2021_05_14_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_14_실습내용.ipynb)
 
 
 <br>
