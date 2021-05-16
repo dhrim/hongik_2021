@@ -45,10 +45,7 @@
     - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
 
 - 참고자료
-    - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/Index.ipynb#scrollTo=_1SPvlnh1q-0
-    - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.01-Simple-Line-Plots.ipynb
-    - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.02-Simple-Scatter-Plots.ipynb
-    - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.08-Multiple-Subplots.ipynb
+    - 활용 예 갤러리 : https://matplotlib.org/stable/gallery/index.html
     - cheat sheet : https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
 
 - Quiz
