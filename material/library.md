@@ -45,13 +45,28 @@
     - [matplot.ipynb](library/matplot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot.ipynb)
     - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
 
-- 참고자료
-    - 활용 예 갤러리 : https://matplotlib.org/stable/gallery/index.html
+- 참고 자료
+    - matplotlib 홈 : https://matplotlib.org/
+        - 갤러리 : https://matplotlib.org/stable/gallery/index.html
     - cheat sheet : https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
 
 - Quiz
     - https://www.w3resource.com/graphics/matplotlib/basic/index.php
     - https://pynative.com/python-matplotlib-exercise/
+
+
+<br>
+
+# Seaborn
+
+- 실습 자료
+    - [seaborn.ipynb](library/seaborn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/seaborn.ipynb)
+
+- 참고자료
+    - Seaborn 홈 : https://seaborn.pydata.org/
+        - 갤러리 : https://seaborn.pydata.org/examples/index.html
+        - API : https://seaborn.pydata.org/api.html
+    cheat sheet : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf
 
 
 <br>
