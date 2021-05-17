@@ -86,12 +86,6 @@
 
 - EDA 실습 - NY 자전거 : [EDA_practice_NY_bike.ipynb](library/EDA_practice_NY_bike.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/EDA_practice_NY_bike.ipynb)
 
-
-<br>
-
-
-# 실 자료 EDA 실습
-
-- 실습 자료 : [pandas_profiling.ipynb](library/pandas_profiling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas_profiling.ipynb)
+- pandas-profiling 실습 : [pandas_profiling.ipynb](library/pandas_profiling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas_profiling.ipynb)
 
 
