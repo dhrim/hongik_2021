@@ -84,6 +84,7 @@
 
 - flawed iris 전처리 실습 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/flawed_iris_preprocessing.ipynb)
 
+- EDA 실습 - NY 자전거 : [EDA_practice_NY_bike.ipynb](library/EDA_practice_NY_bike.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/EDA_practice_NY_bike.ipynb)
 
 
 <br>
