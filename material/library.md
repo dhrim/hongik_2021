@@ -82,6 +82,9 @@
 
 # EDA
 
+- flawed iris 데이터 전처리 실습 : [EDA_practice1.ipynb](library/EDA_practice1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/EDA_practice1.ipynb)
+
+
 
 <br>
 
