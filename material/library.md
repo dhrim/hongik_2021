@@ -45,6 +45,10 @@
     - [matplot.ipynb](library/matplot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot.ipynb)
     - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
 
+- 실습 내용
+  - [2021_05_17_실습내용.ipynb](library/practice/2021_05_17_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_17_실습내용.ipynb)
+
+
 - 참고 자료
     - matplotlib 홈 : https://matplotlib.org/
         - 갤러리 : https://matplotlib.org/stable/gallery/index.html
