@@ -66,6 +66,10 @@
 - 실습 자료
     - [seaborn.ipynb](library/seaborn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/seaborn.ipynb)
 
+- 실습 내용
+  - [2021_05_18_실습내용.ipynb](library/practice/2021_05_18_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_18_실습내용.ipynb)
+
+
 - 참고자료
     - Seaborn 홈 : https://seaborn.pydata.org/
         - 갤러리 : https://seaborn.pydata.org/examples/index.html
@@ -75,12 +79,10 @@
 
 <br>
 
-# Scikit
+# 데이터 처리 실습
 
+- 데이터 처리 요약 실습 : [date_processing_concise.ipynb](library/date_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/date_processing_concise.ipynb)
 
-<br>
-
-# EDA
 
 - flawed iris 전처리 실습 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/flawed_iris_preprocessing.ipynb)
 
