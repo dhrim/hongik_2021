@@ -81,7 +81,7 @@
 
 # 데이터 처리 실습
 
-- 데이터 처리 요약 실습 : [date_processing_concise.ipynb](library/date_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/date_processing_concise.ipynb)
+- 데이터 처리 요약 실습 : [data_processing_concise.ipynb](library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/data_processing_concise.ipynb)
 
 
 - flawed iris 전처리 실습 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/flawed_iris_preprocessing.ipynb)
