@@ -81,7 +81,7 @@
 
 # 전체 평가
 
-- 평가 문제 : [library_평가문제.ipynb](practice/library_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/library_평가문제.ipynb)
+- 평가 문제 : [library_평가문제.ipynb](library/practice/library_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/library_평가문제.ipynb)
 
 <br>
 
