@@ -2,8 +2,8 @@
 
 # 빅데이터 분석 기반 비즈니스 개발자 양성 & 취업연계 과정
 
-- 딥러닝을 위한 파이썬 : [python.md](material/python_for_deep_leaarning.md)
-- 딥러닝을 위한 라이브러리 : [library.md](material/library_for_deep_leaarning.md)
+- 딥러닝을 위한 파이썬 : [python_for_deep_leaarning.md](material/python_for_deep_leaarning.md)
+- 딥러닝을 위한 라이브러리 : [library_for_deep_leaarning.md](material/library_for_deep_leaarning.md)
 - 딥러닝 : [deep_learning.md](material/deep_learning.md)
 
 <br>
