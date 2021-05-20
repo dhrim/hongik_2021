@@ -22,7 +22,7 @@
 # Numpy
 
 - 실습 자료
-    - [numpy.ipynb](library/numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/numpy.ipynb)
+    - [numpy_for_deep_learning.ipynb](library/numpy_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/numpy_for_deep_learning.ipynb)
     - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/numpy_quiz_for_deeplearning.ipynb)
 
 - 실습 내용
@@ -44,7 +44,7 @@
 # Pandas
 
 - 실습 자료
-    - [pandas.ipynb](library/pandas.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas.ipynb)
+    - [pandas_for_deep_learning.ipynb](library/pandas_for_deep_learning.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas_for_deep_learning.ipynb)
 
 - 실습 내용
   - [2021_05_13_실습내용.ipynb](library/practice/2021_05_13_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_13_실습내용.ipynb)
@@ -65,7 +65,7 @@
 # Matplot
 
 - 실습 자료
-    - [matplot.ipynb](library/matplot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot.ipynb)
+    - [matplot_for_deep_learning.ipynb](library/matplot_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_for_deep_learning.ipynb)
     - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
 
 - 실습 내용
@@ -87,7 +87,7 @@
 # Seaborn
 
 - 실습 자료
-    - [seaborn.ipynb](library/seaborn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/seaborn.ipynb)
+    - [seaborn_for_deep_learning.ipynb](library/seaborn_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/seaborn_for_deep_learning.ipynb)
 
 - 실습 내용
   - [2021_05_18_실습내용.ipynb](library/practice/2021_05_18_실습내용.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/practice/2021_05_18_실습내용.ipynb)
