@@ -63,12 +63,24 @@ libray
     pandas
         load
         view
-	operation
-        to numpy
+        search
+        operation
+            to numpy
+        전처리
+            결측치 처리
+            이상치 처리
+            카테고리 데이터 인코딩
+            normalization
     matplot
         draw line graph
         scatter
         show image
+    Seaborn
+        histogram
+        scatter
+        line
+        box
+
 
 Deep Learning
     DNN
