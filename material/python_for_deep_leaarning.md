@@ -13,8 +13,9 @@
   - [2021_05_11_실습내용.ipynb](python/practice/2021_05_11_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_11_실습내용.ipynb)
   - [2021_05_12_실습내용.ipynb](python/practice/2021_05_12_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/2021_05_12_실습내용.ipynb)
 
-- 평가 문제 : [python_평가문제.ipynb](python/practice/python_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제.ipynb)
-- 평가 문제 풀이 : [python_평가문제_풀이.ipynb](python/practice/python_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제_풀이.ipynb)
+- 평가
+    - 문제 : [python_평가문제.ipynb](python/practice/python_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제.ipynb)
+    - 풀이 : [python_평가문제_풀이.ipynb](python/practice/python_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제_풀이.ipynb)
 
 - 설치
     - python, VSCode, jupyter 설치 : [install_python_vscode_jupyter.pdf](python/install_python_vscode_jupyter.pdf)
