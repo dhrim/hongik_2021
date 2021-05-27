@@ -112,7 +112,7 @@
 
 - 데이터 처리 방법 요약 : [data_processing_concise.ipynb](library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/data_processing_concise.ipynb)
 
-- Pandas-Profileing
+- Pandas-Profiling
     - pandas-profiling 실습 : [pandas_profiling.ipynb](library/pandas_profiling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/library/pandas_profiling.ipynb)
     - 샘플 리포트 : [pandas_profiling_report_sample.html](library/pandas_profiling_report_sample.html)
 
