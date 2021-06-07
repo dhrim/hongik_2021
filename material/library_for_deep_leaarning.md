@@ -32,7 +32,6 @@
     - API : https://docs.scipy.org/doc/numpy/genindex.html
     - 주요 요약 : http://riseshia.github.io/2017/01/30/numpy-tutorial-with-code.html
     - 한글 자료 : http://taewan.kim/post/numpy_cheat_sheet/
-    - Matplotlib Tutorial - 파이썬으로 데이터 시각화하기 : https://wikidocs.net/92088
     - cheat sheet
         - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
         - https://www.dataquest.io/blog/numpy-cheat-sheet/
@@ -75,6 +74,7 @@
 - 참고 자료
     - matplotlib 홈 : https://matplotlib.org/
         - 갤러리 : https://matplotlib.org/stable/gallery/index.html
+    - Matplotlib Tutorial - 파이썬으로 데이터 시각화하기 : https://wikidocs.net/book/5011
     - cheat sheet : https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
 
 - Quiz
