@@ -148,33 +148,6 @@
 <br>
 
 
-## 9일차
-
-- 실데이터 실습 #1
-    - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](../material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
-    - 속성 데이터 예측 : [real_practice_predict_semiconductor_attribute.ipynb](../material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb)
-    - 속성 데이터 분류 : [real_practice_classify_semiconductor_attribute.ipynb](../material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb)
-    - 시계열 데이터 예측 : [real_practice_timeseries_weathrer_forecaseting.ipynb](../material/deep_learning/real_practice_timeseries_weathrer_forecaseting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_timeseries_weathrer_forecaseting.ipynb)
-    - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](../material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
-
-<br>
-
-
-## 10일차
-
-
-- 포즈 추출 실습 : [pose_extraction_using_open_pose.ipynb](../material/deep_learning/pose_extraction_using_open_pose.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/pose_extraction_using_open_pose.ipynb)
-    - 사용 템플릿 : [open_pose_using_template.ipynb](../material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
-- web cam + colab 포즈 추출 실습 : [tf_pose_estimation_with_webcam.ipynb](../material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
-- 엔진 블레이드 영상 분류 실습
-    - 데이터 : [bladeDataset_original.zip](../material/deep_learning/bladeDataset_original.zip)
-    - 노트북 : [engine_blade_classification.ipynb](../material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
-- 심리설문 데이터 분류 실습 : [real_practice_psychologial_test_classification.ipynb](../material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
-
-
-<br>
-
-
 # 기타
 
 교육환경, numpy, pandas, matplot
@@ -218,7 +191,7 @@
 - GAN paper : https://arxiv.org/pdf/1406.2661.pdf
 - Gan paper count : https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221201915691
 - Conditional gan face generation example. https://github.com/Guim3/IcGAN
-- Pinpointing example : https://www.geeks3d.com/20180425/nvidia-deep-learning-based-image-inpainting-demo-is-impressive/ 
+- Pinpointing example : https://www.geeks3d.com/20180425/nvidia-deep-learning-based-image-inpainting-demo-is-impressive/
 - 동영상 스타일 변환 : https://www.youtube.com/watch?v=Khuj4ASldmU
 - 얼굴 감정 인식 예 : http://www.astronomer.rocks/news/articleView.html?idxno=86084
 - Papers with code : https://paperswithcode.com/
