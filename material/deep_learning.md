@@ -67,7 +67,7 @@
     - 흑백 영상 데이터 MNIST 영상분류 : [cnn_mnist.ipynb](../material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/cnn_mnist.ipynb)
     - CIFAR10 컬러영상분류 : [cnn_cifar10.ipynb](../material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/cnn_cifar10.ipynb)
 - 분류기로서의 CNN
-    - IRIS 분류 : [iris_cnn.ipynb](../material/deep_learning/iris_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/iris_cnn.ipynb)
+    - IRIS 분류 : [cnn_iris.ipynb](../material/deep_learning/cnn_iris.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/cnn_iris.ipynb)
 
 <br>
 
