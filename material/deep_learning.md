@@ -45,12 +45,9 @@
     - 데이터 수와 학습
     - normalization
     - 모델 저장과 로딩
-    - 웨이트 초기값
     - 노이즈 내구성
     - GPU 설정
-    - 데이터 수와 overfitting
-    - overfitting 처리하기
-    - callback
+    - 데이터 수와 성능
     - 다양한 입출력
 
 <br>
@@ -71,6 +68,16 @@
 
 <br>
 
+## XXX
+
+- 성능 개선
+    - 성능 개선 개요 : TODO in ppt
+    - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+    - callback
+        - 방법 : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
+        - DNN MNIST에 적용 : TODO
+    - normalization : [performance_dnn_mnist_normalization.ipynb](../material/deep_learning/performance_dnn_mnist_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/performance_dnn_mnist_normalization.ipynb)
+    - weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 
 ## 4일차
 
