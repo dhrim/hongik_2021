@@ -79,6 +79,9 @@
     - normalization : [performance_dnn_mnist_normalization.ipynb](../material/deep_learning/performance_dnn_mnist_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/performance_dnn_mnist_normalization.ipynb)
     - weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 
+
+<br>
+
 ## 4일차
 
 - Data Augmentation : [data_augmentation.ipynb](../material/deep_learning/data_augmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/data_augmentation.ipynb)
@@ -89,6 +92,8 @@
 
 
 ## 5일차
+
+- 윈도우 환경에서 실습을 위한 가이드 : [deep_learning_in_windows.md](deep_learning_in_windows.md)
 
 - text 데이터의 이해
     - word embedding의 이해
