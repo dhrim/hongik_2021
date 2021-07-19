@@ -18,8 +18,7 @@
     - 풀이 : [python_평가문제_풀이.ipynb](python/practice/python_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/python/practice/python_평가문제_풀이.ipynb)
 
 - 설치
-    - python, VSCode, jupyter 설치 : [install_python_vscode_jupyter.pdf](python/install_python_vscode_jupyter.pdf)
-    - Anaconda, Tensorflow 설치, VSCode, jupyter 연동 : [install_anaconda.pdf](python/install_anaconda.pdf)
+    - 환경 설정 : [setup_environment_on_windows.pdf](python/setup_environment_on_windows.pdf)
 <br>
 
 # 일자별 교육 내용
