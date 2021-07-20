@@ -132,7 +132,7 @@ path/to/img2.jpg 120,300,250,600,2
 
 # RetinaNet
 
-실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/main/material/deep_learning/object_detection_retinanet.ipynb)
+실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
 
 
 <br>
