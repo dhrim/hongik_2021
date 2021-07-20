@@ -49,6 +49,8 @@
     - GPU 설정
     - 데이터 수와 성능
     - 다양한 입출력
+    - callback : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
+
 
 <br>
 
@@ -68,18 +70,6 @@
 
 <br>
 
-## XXX
-
-- 성능 개선
-    - 성능 개선 개요 : TODO in ppt
-    - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-    - callback : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
-    - weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
-    - MNIST 분류에 적용 : [performance_dnn_mnist_normalization.ipynb](../material/deep_learning/performance_dnn_mnist_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/performance_dnn_mnist_normalization.ipynb)
-    - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
-
-
-<br>
 
 ## 4일차
 
@@ -155,6 +145,23 @@
     - 화재 영상 분류 실습 : 
     	- 데이터 : [Fire.tar.gz](../material/deep_learning/Fire.tar.gz), [spatial_envelope_static_8outdoorcategories.tar.gz](../material/deep_learning/spatial_envelope_static_8outdoorcategories.tar.gz)
     	- 실습 파일 : [fire_scene_classification.ipynb](../material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
+
+<br>
+
+## 성능 개선
+
+- 성능 개선 개요 : TODO in ppt
+
+- 오버피팅 처리 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+
+- 데이터 수와 오버피팅 : [data_count_and_overfitting.ipynb](../material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
+
+- weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
+
+- MNIST 분류에 적용 : [performance_dnn_mnist_normalization.ipynb](../material/deep_learning/performance_dnn_mnist_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/performance_dnn_mnist_normalization.ipynb)
+
+- IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
+
 
 <br>
 
