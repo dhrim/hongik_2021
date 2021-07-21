@@ -18,6 +18,13 @@
 
 <br>
 
+# 과제
+
+과제 상세 : [2flowers_classification](../material/deep_learning/practice/2flowers_classification.md)
+
+
+<br>
+
 # 일자별 계획
 
 ## 1일차
