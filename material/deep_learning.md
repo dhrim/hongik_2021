@@ -170,7 +170,7 @@
 교육환경, numpy, pandas, matplot
 - jupyter와 colab 이해 : [jupyter_and_colab.md](../material/env/jupyter_and_colab.md)
 - 윈도우 환경에서 linux command HowTo : [how_to_linux_command_on_windows.md](../material/env/how_to_linux_command_on_windows.md)
-- Ubuntu 서버 설치학(다소 오래된) : [2019-10-17_setup_server.pdf](../material/env/2019-10-17_setup_server.pdf)
+- Ubuntu 서버 설치하기(다소 오래된) : [2019-10-17_setup_server.pdf](../material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM생성하고 Colab 연결하기 : [GCP_VM_and_Colab.pdf](../material/env/GCP_VM_and_Colab.pdf)
 <br>
 
