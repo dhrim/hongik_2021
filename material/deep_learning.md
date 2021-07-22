@@ -96,7 +96,6 @@
     - RNN의 이해 : [deep_learning_intro.pptx](../material/deep_learning//deep_learning_intro.pptx)
     - CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 :  : [rnn_text_classification.ipynb](../material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
     - RNN을 사용한 흑백 영상 데이터 MNIST 분류 : [rnn_mnist.ipynb](../material/deep_learning/rnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/rnn_mnist.ipynb)
-(https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
 - 강화학습 이해하기 : [deep_learning_intro.pptx](../material/deep_learning//deep_learning_intro.pptx)
 - 알파고 이해하기 : [understanding_ahphago.pptx](../material/deep_learning/understanding_ahphago.pptx)
 
