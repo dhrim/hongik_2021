@@ -162,7 +162,7 @@
 
 - weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 
-- MNIST 분류에 적용 : [performance_dnn_mnist_normalization.ipynb](../material/deep_learning/performance_dnn_mnist_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/performance_dnn_mnist_normalization.ipynb)
+- normalization과 성능 : [normalization_and_performance.ipynb](../material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
 
 - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
 
