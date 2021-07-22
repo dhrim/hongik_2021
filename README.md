@@ -117,11 +117,13 @@ Deep Learning
 	Super Resolution
 	Question answering
 	Auto Captioning
+	Style Transfer
+	Image Tranlation
     data type
     	attribute data
 	image data
 	natural language data
-	time series data
+	sequence data(time serial)
 
 TensorFlow/Keras
     basic frame
@@ -137,12 +139,13 @@ TensorFlow/Keras
         activation function
         initializer
     tuning
-        learning rate
+        learning rate decay
         regularizer
         dropout
         batch normalization
     save/load
     compile
+    	model architecture
         optimizer
         loss
         metric
