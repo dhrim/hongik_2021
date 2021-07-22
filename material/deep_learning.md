@@ -160,6 +160,8 @@
 - weight 초기화와 성능 : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](../material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
 - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
+- MNIST CNNdp callback과 오버피칭 처리 적용 : [boston_house_price_regression.ipynb](../material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb)
+
 
 
 <br>
