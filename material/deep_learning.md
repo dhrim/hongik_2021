@@ -154,16 +154,11 @@
 
 ## 성능 개선
 
-- 성능 개선 개요 : TODO in ppt
-
-- 오버피팅 처리 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-
+- 성능 개선 개요 : [deep_learning_intro.pptx](../material/deep_learning/deep_learning_intro.pptx)
+- 오버피팅 처리 방법 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
 - 데이터 수와 오버피팅 : [data_count_and_overfitting.ipynb](../material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
-
-- weight init : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
-
+- weight 초기화와 성능 : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](../material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
-
 - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
 
 
@@ -173,11 +168,10 @@
 # 기타
 
 교육환경, numpy, pandas, matplot
-- 교육 환경 : [env.md](../material/env.md)
-- numpy : 데이터 로딩, 보기, 데이터 변환, 형태 변경 : [library.md](../material/library.md)
-- pandas, matplot : [ibrary.md](../material/library.md)
-- 윈도우 환경에서 실습을 위한 가이드 : [deep_learning_in_windows.md](deep_learning_in_windows.md)
-
+- jupyter와 colab 이해 : [jupyter_and_colab.md](../material/env/jupyter_and_colab.md)
+- 윈도우 환경에서 linux command HowTo : [how_to_linux_command_on_windows.md](../material/env/how_to_linux_command_on_windows.md)
+- Ubuntu 서버 설치학(다소 오래된) : [2019-10-17_setup_server.pdf](../material/env/2019-10-17_setup_server.pdf)
+- GCP에 VM생성하고 Colab 연결하기 : [GCP_VM_and_Colab.pdf](../material/env/GCP_VM_and_Colab.pdf)
 <br>
 
 기타 자료
