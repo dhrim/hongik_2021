@@ -89,8 +89,6 @@
 
 ## 5일차
 
-- 윈도우 환경에서 실습을 위한 가이드 : [deep_learning_in_windows.md](deep_learning_in_windows.md)
-
 - text 데이터의 이해
     - word embedding의 이해
     - word2vec 실습
@@ -179,6 +177,9 @@
 - 교육 환경 : [env.md](../material/env.md)
 - numpy : 데이터 로딩, 보기, 데이터 변환, 형태 변경 : [library.md](../material/library.md)
 - pandas, matplot : [ibrary.md](../material/library.md)
+- 윈도우 환경에서 실습을 위한 가이드 : [deep_learning_in_windows.md](deep_learning_in_windows.md)
+
+<br>
 
 기타 자료
 - ML Classifiers :  [ML_classifiers.ipynb](../material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/ML_classifiers.ipynb)
