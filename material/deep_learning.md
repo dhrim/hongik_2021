@@ -175,7 +175,8 @@
 <br>
 
 기타 자료
-- ML Classifiers :  [ML_classifiers.ipynb](../material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/ML_classifiers.ipynb)
+- ML Classifiers : [ML_classifiers.ipynb](../material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/ML_classifiers.ipynb)
+- DNN regression. bostong 집값 예측 : [boston_house_price_regression.ipynb](../material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb) 
 - [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
 - GCP에 VM 생성하고 Colab 연결하기 : [create_GCP_VM.pdf](../material/deep_learning/create_GCP_VM.pdf)
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](../material/deep_learning/some_interesting_deep_learning.pptx)
