@@ -58,7 +58,6 @@
     - 다양한 입출력
     - callback : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
 
-
 <br>
 
 
@@ -152,6 +151,9 @@
 
 <br>
 
+
+# 기타
+
 ## 성능 개선
 
 - 성능 개선 개요 : [deep_learning_intro.pptx](../material/deep_learning/deep_learning_intro.pptx)
@@ -159,24 +161,28 @@
 - 데이터 수와 오버피팅 : [data_count_and_overfitting.ipynb](../material/deep_learning/data_count_and_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/data_count_and_overfitting.ipynb)
 - weight 초기화와 성능 : [dnn_in_keras_weight_init.ipynb](../material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
 - normalization과 성능 : [normalization_and_performance.ipynb](../material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
+- 불균등 데이터 처리 : [treating_imbalanced_data.ipynb](../material/deep_learning/treating_imbalanced_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_imbalanced_data.ipynb)
 - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](../material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
-- MNIST CNNdp callback과 오버피칭 처리 적용 : [boston_house_price_regression.ipynb](../material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb)
+- MNIST CNN에 callback과 오버피칭 처리 적용 : [boston_house_price_regression.ipynb](../material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb)
 
+
+## How-To
+
+- class_wieght : [howto_class_weight_for_imbalancing.ipynb](../material/deep_learning/howto_class_weight_for_imbalancing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/howto_class_weight_for_imbalancing.ipynb)
 
 
 <br>
 
+## 환경 
 
-# 기타
-
-교육환경, numpy, pandas, matplot
 - jupyter와 colab 이해 : [jupyter_and_colab.md](../material/env/jupyter_and_colab.md)
 - 윈도우 환경에서 linux command HowTo : [how_to_linux_command_on_windows.md](../material/env/how_to_linux_command_on_windows.md)
 - Ubuntu 서버 설치하기(다소 오래된) : [2019-10-17_setup_server.pdf](../material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM생성하고 Colab 연결하기 : [GCP_VM_and_Colab.pdf](../material/env/GCP_VM_and_Colab.pdf)
 <br>
 
-기타 자료
+## 기타 자료
+
 - ML Classifiers : [ML_classifiers.ipynb](../material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/ML_classifiers.ipynb)
 - DNN regression. bostong 집값 예측 : [boston_house_price_regression.ipynb](../material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb) 
 - [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
