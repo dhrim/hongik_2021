@@ -26,6 +26,6 @@
 
 ## 기타 사항
 
-- 2021/08/01(일) 23:59까지 노트북 파일을 dh-rim@hanmil.net으로 제출한다.
+- 2021/08/01(일) 23:59까지 노트북 파일을 dh-rim@hanmail.net으로 제출한다.
 - 파일 이름은 2flowers_classification_이름.ipynb 으로
 
